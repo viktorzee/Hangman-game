@@ -12,3 +12,5 @@ const getPuzzle = async (wordCount) => {
         console.log(`Error: ${err}`);
     }
 }
+
+export default getPuzzle;
