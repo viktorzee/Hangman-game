@@ -59,3 +59,11 @@ p {
 .button:hover {
      background: #5F3A87;
 }
+
+footer {
+     font-size: 1.5rem;
+     position: fixed;
+     bottom: 0;
+     text-align: center;
+     padding: 1rem;
+}
